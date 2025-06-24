@@ -1,0 +1,15 @@
+{
+  "name": "custom-dark-theme",
+  "displayName": "Custom Dark Theme",
+  "description": "Custom dark theme by Haha64142",
+  "version": "1.0",
+  "author": { "name": "Haha64142" },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      { "id": "Custom Dark", "path": "." }
+    ]
+  }
+}
